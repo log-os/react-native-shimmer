@@ -7,7 +7,7 @@
 //
 
 #import "RNShimmeringView.h"
-#import <React/RCTAssert.h>
+#import "RCTAssert.h"
 
 @implementation RNShimmeringView
 

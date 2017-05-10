@@ -6,7 +6,7 @@
 //  Copyright © 2016 Joel Arvidsson. All rights reserved.
 //
 
-#import <React/RCTViewManager.h>
+#import "RCTViewManager.h"
 
 @interface RNShimmeringViewManager : RCTViewManager
 
